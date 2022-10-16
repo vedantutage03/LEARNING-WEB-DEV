@@ -65,20 +65,20 @@ img{
 .showcase-top{
   position: relative;
   z-index: 2;
-  height: 90px;
+  height: 91px;
 }
 
 .showcase-top img{
-  width: 180px;
+  width: 181px;
   position: absolute;
-  top: 50%;
+  top: 51%;
   left: 0;
   transform: translate(40% , -50%);
 }
 
 .showcase-top a{
   position: absolute;
-  top: 50%;
+  top: 51%;
   right: 0;
   transform: translate(-60%,-50%);
 }
